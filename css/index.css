@@ -1,5 +1,6 @@
     *{
       box-sizing: border-box;
+      font-family: Comic Sans MS;
     }
 
     h1{
@@ -12,7 +13,6 @@
       height: auto;
       margin: 10px;
       padding: 40px 10px 10px 10px;
-      font-family: Comic Sans MS;
     }
 
     #container1 {
